@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树的一部分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="后序遍历序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树的路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="全排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mod.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="树的遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串相比.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="很大的字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表的入环点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01背包问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组的遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hash的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="substr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字节序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="验证.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="异或.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="木头人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="赛马.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pause.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构建二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="重建二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="multimap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="赛跑.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="时间啊in.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="入栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="办公啦.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="利用hash表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分割字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strncpy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="new.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="erase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内部类的构造.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内部类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="比赛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="股票.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单例模式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纯虚函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="机器人走格子被网拦住.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="位加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="平移窗口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string的find和结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="关联式容器的删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="使用一个堆吧.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="堆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="序列化与反序列化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="set.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="朋友圈和并查集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="解压.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="广告牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="堆箱子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lru.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="压缩字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="replase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="k个一组反转数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deque.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="假期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="视野争夺.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="正负数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="抽牌吧.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="背包问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="有用容量的堆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合并数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="满二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="地图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串解压缩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构成三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三维.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="花钱.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="接雨水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组去重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长回文子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="k个一组反转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="凑零钱.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心去重叠区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多态.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string的实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="球落地.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算星期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公因数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="走迷宫回到起点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="权限限制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="越界.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查电话号码啦.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="深信服讨厌的复杂度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="任意四边形面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="破水桶装水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="accumulate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="插队使用链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="前K大.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="define.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
