@@ -120,12 +120,14 @@
   <ItemGroup>
     <ClCompile Include="01背包问题.cpp" />
     <ClCompile Include="accumulate.cpp" />
+    <ClCompile Include="ASCII使用.cpp" />
     <ClCompile Include="cin.cpp" />
     <ClCompile Include="define.cpp" />
     <ClCompile Include="deque.cpp" />
     <ClCompile Include="dfs.cpp" />
     <ClCompile Include="erase.cpp" />
     <ClCompile Include="hash的使用.cpp" />
+    <ClCompile Include="isalpha.cpp" />
     <ClCompile Include="k个一组反转数组.cpp" />
     <ClCompile Include="k个一组反转链表.cpp" />
     <ClCompile Include="lru.cpp" />
@@ -166,6 +168,7 @@
     <ClCompile Include="压缩字符串.cpp" />
     <ClCompile Include="合并数组.cpp" />
     <ClCompile Include="后序遍历序列.cpp" />
+    <ClCompile Include="喝水的性价比.cpp" />
     <ClCompile Include="地图.cpp" />
     <ClCompile Include="堆.cpp" />
     <ClCompile Include="堆箱子.cpp" />

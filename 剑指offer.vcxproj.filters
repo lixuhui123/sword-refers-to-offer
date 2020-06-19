@@ -336,5 +336,14 @@
     <ClCompile Include="define.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ASCII使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isalpha.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="喝水的性价比.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
