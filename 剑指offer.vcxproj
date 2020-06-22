@@ -171,6 +171,7 @@
     <ClCompile Include="喝水的性价比.cpp" />
     <ClCompile Include="地图.cpp" />
     <ClCompile Include="堆.cpp" />
+    <ClCompile Include="堆的使用和系列任意计算滑动窗口.cpp" />
     <ClCompile Include="堆箱子.cpp" />
     <ClCompile Include="多态.cpp" />
     <ClCompile Include="字符串相比.cpp" />
@@ -207,6 +208,7 @@
     <ClCompile Include="深信服讨厌的复杂度.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="源1.cpp" />
+    <ClCompile Include="滑动窗口.cpp" />
     <ClCompile Include="满二叉树.cpp" />
     <ClCompile Include="球落地.cpp" />
     <ClCompile Include="破水桶装水.cpp" />

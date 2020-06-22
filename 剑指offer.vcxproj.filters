@@ -345,5 +345,11 @@
     <ClCompile Include="喝水的性价比.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="滑动窗口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="堆的使用和系列任意计算滑动窗口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
