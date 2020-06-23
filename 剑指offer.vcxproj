@@ -222,6 +222,7 @@
     <ClCompile Include="计算星期.cpp" />
     <ClCompile Include="贪心.cpp" />
     <ClCompile Include="贪心去重叠区间.cpp" />
+    <ClCompile Include="贪心无重叠窗口.cpp" />
     <ClCompile Include="赛跑.cpp" />
     <ClCompile Include="赛马.cpp" />
     <ClCompile Include="走迷宫回到起点.cpp" />

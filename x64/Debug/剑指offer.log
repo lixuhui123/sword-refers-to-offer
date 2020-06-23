@@ -1,5 +1,3 @@
-﻿  堆.cpp
-  堆的使用和系列任意计算滑动窗口.cpp
-e:\bite learn\剑指offer\剑指offer\堆的使用和系列任意计算滑动窗口.cpp(12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  正在生成代码...
+﻿  贪心无重叠窗口.cpp
+e:\bite learn\剑指offer\剑指offer\贪心无重叠窗口.cpp(16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   剑指offer.vcxproj -> E:\bite learn\剑指offer\x64\Debug\剑指offer.exe

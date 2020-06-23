@@ -351,5 +351,8 @@
     <ClCompile Include="堆的使用和系列任意计算滑动窗口.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="贪心无重叠窗口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
