@@ -163,6 +163,7 @@
     <ClCompile Include="分割字符.cpp" />
     <ClCompile Include="利用hash表.cpp" />
     <ClCompile Include="前K大.cpp" />
+    <ClCompile Include="剪绳子贪心递归DFS.cpp" />
     <ClCompile Include="办公啦.cpp" />
     <ClCompile Include="单例模式.cpp" />
     <ClCompile Include="压缩字符串.cpp" />
