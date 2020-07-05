@@ -128,6 +128,7 @@
     <ClCompile Include="erase.cpp" />
     <ClCompile Include="hash的使用.cpp" />
     <ClCompile Include="isalpha.cpp" />
+    <ClCompile Include="不乘它自己.cpp" />
     <ClCompile Include="k个一组反转数组.cpp" />
     <ClCompile Include="k个一组反转链表.cpp" />
     <ClCompile Include="lru.cpp" />
@@ -178,6 +179,7 @@
     <ClCompile Include="字符串相比.cpp" />
     <ClCompile Include="字符串解压缩.cpp" />
     <ClCompile Include="字节序.cpp" />
+    <ClCompile Include="寻找第i个丑数.cpp" />
     <ClCompile Include="平移窗口.cpp" />
     <ClCompile Include="广告牌.cpp" />
     <ClCompile Include="序列化与反序列化.cpp" />
@@ -210,6 +212,7 @@
     <ClCompile Include="源.cpp" />
     <ClCompile Include="源1.cpp" />
     <ClCompile Include="滑动窗口.cpp" />
+    <ClCompile Include="滑动窗口任意子数组.cpp" />
     <ClCompile Include="满二叉树.cpp" />
     <ClCompile Include="球落地.cpp" />
     <ClCompile Include="破水桶装水.cpp" />
@@ -229,6 +232,7 @@
     <ClCompile Include="走迷宫回到起点.cpp" />
     <ClCompile Include="越界.cpp" />
     <ClCompile Include="进制.cpp" />
+    <ClCompile Include="选择题验证积累.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
     <ClCompile Include="链表的入环点.cpp" />
     <ClCompile Include="验证.cpp" />

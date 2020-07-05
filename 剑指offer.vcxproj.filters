@@ -357,5 +357,17 @@
     <ClCompile Include="剪绳子贪心递归DFS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="不乘它自己.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="寻找第i个丑数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择题验证积累.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="滑动窗口任意子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
