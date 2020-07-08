@@ -218,9 +218,11 @@
     <ClCompile Include="破水桶装水.cpp" />
     <ClCompile Include="纯虚函数.cpp" />
     <ClCompile Include="凑零钱.cpp" />
+    <ClCompile Include="考试成绩.cpp" />
     <ClCompile Include="股票.cpp" />
     <ClCompile Include="背包问题.cpp" />
     <ClCompile Include="花钱.cpp" />
+    <ClCompile Include="蓄水池链表和dfs.cpp" />
     <ClCompile Include="视野争夺.cpp" />
     <ClCompile Include="解压.cpp" />
     <ClCompile Include="计算星期.cpp" />

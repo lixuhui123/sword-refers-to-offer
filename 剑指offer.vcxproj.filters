@@ -369,5 +369,11 @@
     <ClCompile Include="滑动窗口任意子数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="考试成绩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蓄水池链表和dfs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
