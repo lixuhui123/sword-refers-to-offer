@@ -127,6 +127,7 @@
     <ClCompile Include="dfs.cpp" />
     <ClCompile Include="erase.cpp" />
     <ClCompile Include="hash的使用.cpp" />
+    <ClCompile Include="inline.cpp" />
     <ClCompile Include="isalpha.cpp" />
     <ClCompile Include="不乘它自己.cpp" />
     <ClCompile Include="k个一组反转数组.cpp" />
@@ -239,6 +240,9 @@
     <ClCompile Include="重建二叉树.cpp" />
     <ClCompile Include="链表的入环点.cpp" />
     <ClCompile Include="验证.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="socket.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
