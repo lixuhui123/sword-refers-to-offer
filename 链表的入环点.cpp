@@ -1,4 +1,4 @@
-///*
+//
 //struct ListNode {
 //	int val;
 //	struct ListNode *next;
@@ -6,7 +6,7 @@
 //		val(x), next(NULL) {
 //	}
 //};
-//*/
+//
 //class Solution {
 //public:
 //	ListNode* havecycle(ListNode* pHead)

@@ -381,6 +381,33 @@
     <ClCompile Include="inline.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="并查集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="基因.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树层序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="利用滑动窗口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回文.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="扔东西.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n的所有和数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="socket.hpp">

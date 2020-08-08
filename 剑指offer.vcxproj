@@ -129,6 +129,7 @@
     <ClCompile Include="hash的使用.cpp" />
     <ClCompile Include="inline.cpp" />
     <ClCompile Include="isalpha.cpp" />
+    <ClCompile Include="n的所有和数.cpp" />
     <ClCompile Include="不乘它自己.cpp" />
     <ClCompile Include="k个一组反转数组.cpp" />
     <ClCompile Include="k个一组反转链表.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="一的个数.cpp" />
     <ClCompile Include="三维.cpp" />
     <ClCompile Include="串.cpp" />
+    <ClCompile Include="二叉树层序遍历.cpp" />
     <ClCompile Include="二叉树的一部分.cpp" />
     <ClCompile Include="二叉树的路径.cpp" />
     <ClCompile Include="任意四边形面积.cpp" />
@@ -164,6 +166,7 @@
     <ClCompile Include="内部类的构造.cpp" />
     <ClCompile Include="分割字符.cpp" />
     <ClCompile Include="利用hash表.cpp" />
+    <ClCompile Include="利用滑动窗口.cpp" />
     <ClCompile Include="前K大.cpp" />
     <ClCompile Include="剪绳子贪心递归DFS.cpp" />
     <ClCompile Include="办公啦.cpp" />
@@ -172,7 +175,9 @@
     <ClCompile Include="合并数组.cpp" />
     <ClCompile Include="后序遍历序列.cpp" />
     <ClCompile Include="喝水的性价比.cpp" />
+    <ClCompile Include="回文.cpp" />
     <ClCompile Include="地图.cpp" />
+    <ClCompile Include="基因.cpp" />
     <ClCompile Include="堆.cpp" />
     <ClCompile Include="堆的使用和系列任意计算滑动窗口.cpp" />
     <ClCompile Include="堆箱子.cpp" />
@@ -182,14 +187,17 @@
     <ClCompile Include="字节序.cpp" />
     <ClCompile Include="寻找第i个丑数.cpp" />
     <ClCompile Include="平移窗口.cpp" />
+    <ClCompile Include="并查集.cpp" />
     <ClCompile Include="广告牌.cpp" />
     <ClCompile Include="序列化与反序列化.cpp" />
     <ClCompile Include="异或.cpp" />
     <ClCompile Include="很大的字符串.cpp" />
     <ClCompile Include="快排.cpp" />
+    <ClCompile Include="扔东西.cpp" />
     <ClCompile Include="抽牌吧.cpp" />
     <ClCompile Include="接雨水.cpp" />
     <ClCompile Include="插队使用链表.cpp" />
+    <ClCompile Include="数位.cpp" />
     <ClCompile Include="数字.cpp" />
     <ClCompile Include="数组去重.cpp" />
     <ClCompile Include="数组的遍历.cpp" />
@@ -236,6 +244,7 @@
     <ClCompile Include="走迷宫回到起点.cpp" />
     <ClCompile Include="越界.cpp" />
     <ClCompile Include="进制.cpp" />
+    <ClCompile Include="进制转换.cpp" />
     <ClCompile Include="选择题验证积累.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
     <ClCompile Include="链表的入环点.cpp" />
